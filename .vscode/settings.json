@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./codepipeline-build-deploy/codepipeline_build_deploy",
+        "./codepipeline_build_deploy",
+        "./codepipeline_build_deploy/codepipeline_build_deploy",
+        "./assets/ec2",
+        "./assets/ec2/cdk_vpc_ec2",
+    ]
+}
